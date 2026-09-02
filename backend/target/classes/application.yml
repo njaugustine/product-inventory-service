@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: products
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: backend_user
+    password: postgres
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+    open-in-view: false
+
+  liquibase:
+    enabled: true
+    change-log: classpath:db/changelog/db.changelog-master.yaml
+
+server:
+  port: 8081
