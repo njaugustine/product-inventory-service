@@ -1,7 +1,0 @@
-/Users/naugustine/code/grainger-interview/backend/src/main/java/com/example/products/ProductsApplication.java
-/Users/naugustine/code/grainger-interview/backend/src/main/java/com/example/products/controller/ProductController.java
-/Users/naugustine/code/grainger-interview/backend/src/main/java/com/example/products/dto/CreateProductRequest.java
-/Users/naugustine/code/grainger-interview/backend/src/main/java/com/example/products/dto/ProductResponse.java
-/Users/naugustine/code/grainger-interview/backend/src/main/java/com/example/products/entity/Product.java
-/Users/naugustine/code/grainger-interview/backend/src/main/java/com/example/products/repository/ProductRepository.java
-/Users/naugustine/code/grainger-interview/backend/src/main/java/com/example/products/service/ProductService.java
